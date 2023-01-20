@@ -34,8 +34,8 @@ export default function Infoslider() {
           ></div>
         ))*/}
 
-        <div className="slide" style={{backgroundColor:"#9FE2BF"}}>
-        <p className='box-heading' style={{backgroundColor:"#9FE2BF"}}>TRUST</p>
+         <div className="slide" style={{backgroundColor:"#fcb69f"}}> {/*9FE2BF */}
+        <p className='box-heading' style={{backgroundColor:"#fcb69f"}}>TRUST</p>
         </div>
         <div className="slide" style={{backgroundColor:"#c393cc"}}>
         <p className='box-heading' style={{backgroundColor:"#c393cc"}}>INTEGRITY</p>

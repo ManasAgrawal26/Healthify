@@ -10,8 +10,8 @@ export default function Home() {
     <HomeNavbar/> 
     <div className='info-container'>
       <div className="info">
-        <h1 className='box-heading' style={{backgroundColor:"#43C6DB", textAlign:"center", borderRadius:"20px"}}>ABCD EFGH</h1>
-        <p style={{backgroundColor:"#43C6DB"}}>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque illum neque quae alias eaque officiis beatae repellat. Asperiores nam ullam cupiditate illum perspiciatis maxime, commodi, ipsa aperiam, distinctio rerum iste?</p></div>
+        <h1 className='box-heading' style={{backgroundColor:"#F8F8FF", textAlign:"center", borderRadius:"20px", color:"#3b3355"}}>ABCD EFGH</h1>
+        <p style={{backgroundColor:"#F8F8FF",fontFamily:"Ubuntu",color:"#3b3355"}}>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Atque illum neque quae alias eaque officiis beatae repellat. Asperiores nam ullam cupiditate illum perspiciatis maxime, commodi, ipsa aperiam, distinctio rerum iste?</p></div>
       <Infoslider/>
     </div>
     
@@ -19,3 +19,4 @@ export default function Home() {
     </>
   )
 }
+// #43C6DB
